@@ -9,6 +9,6 @@ Client.PinCode = vClientData[1];
 Client.Name = vClientData[2];
 Client.Phone = vClientData[3];
 Client.AccountBalance = stod(vClientData[4]);//cast string to
-double
+//double
 return Client;
 }
